@@ -1,4 +1,1 @@
-int x
-int y
-int z
-x=z
+int y=35
